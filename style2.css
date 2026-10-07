@@ -1,0 +1,42 @@
+/*general reset*/
+
+body {background-image:url(grupo\ cd.jpeg);
+background-size:cover;
+background-repeat: no-repeat;
+}
+
+.k {text-align: center;
+border: 12px solid;
+border-color: yellow;
+background-color: black;
+margin: 0 auto;
+color: white;}
+
+
+
+.hh {
+    border-radius: 12px;
+
+transform: translate(-250px) rotate(-12deg);
+flex: 1;}
+
+.de {
+    transform: translate(360px) rotate(12deg);
+    border-radius: 12px;
+}
+
+ .ry {text-align: center;
+color: white;
+background-color: black;
+border-color:yellow;
+border: 12px solid;}
+
+
+.ft{background-color: black;
+    color: white;
+
+
+
+}
+
+ .ft {text-align: center;}
